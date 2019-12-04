@@ -4,7 +4,7 @@
 
 | Category |       Ttitle       |  Author  | URL |
 |----------|--------------------|----------|-----|
-| Web      | easyweb            | flight   |  |
+| Web      | easyweb            | flight   | https://github.com/ox1234/d3ctf_easyweb |
 | Web      | fake onelinephp    | w1nd     | https://github.com/w1ndseek2/My-CTF-Challenges |
 | Web      | ezts               | evi0s    |  |
 | Web      | Showhub            | Li4n0    | https://github.com/Li4n0/My-CTF-Challenges/tree/master/D%5E3CTF2019_Showhub |
