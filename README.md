@@ -33,4 +33,4 @@
 | Misc     | Bet2Loss_v2        | Lurkrul  | https://github.com/crumbledwall/bet2loss_v2 |
 | Misc     | c+c                | AiHimmel |  |
 | Misc     | Find Me?           | Ansible  |  |
-| Misc     | Vera               | 去去去    |  |
+| Misc     | Vera               | 去去去    | https://github.com/dimo233/d3ctf-Vera |
