@@ -25,10 +25,10 @@
 | Rev      | KeyGenMe           | yype     | https://github.com/0h2o/D3CTF_Rev/tree/master/pushBox |
 | Rev      | SIMD               | fa1con   | https://github.com/fa1conn/D3CTF-2019-Rev-SIMD-Source-Code |
 | Rev      | Machine            | Happy    | https://github.com/pcy190/D3CTF-2019-Machine |
-| Crypto   | Common             | Lurkrul  |  |
+| Crypto   | Common             | Lurkrul  | https://gist.github.com/LurkNoi/dfe86ed4d16776242251318b380336e7 |
 | Crypto   | sign2win           | bubbles  |  |
 | Crypto   | Noise              | JHSN     | https://gist.github.com/Chrstm/f225a5e67f12d20caba117224d1b4241 |
-| Crypto   | Bivariate          | Lurkrul  |  |
+| Crypto   | Bivariate          | Lurkrul  | https://gist.github.com/LurkNoi/510357aee9f2f86d91847b82ae07ae9c |
 | Crypto   | babyecc            | GMCN     |  |
 | Misc     | Bet2Loss_v2        | Lurkrul  | https://github.com/crumbledwall/bet2loss_v2 |
 | Misc     | c+c                | AiHimmel |  |
