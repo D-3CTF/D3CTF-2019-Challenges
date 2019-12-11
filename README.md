@@ -17,7 +17,7 @@
 | Pwn      | basic basic parser | pzhxbz   |  |
 | Pwn      | ezfile             | huai     | https://github.com/hu4i/D3CTF_2019_ezfile |
 | Pwn      | new_heap           | Aris     |  |
-| Pwn      | babyrop            | coc      |  |
+| Pwn      | babyrop            | coc      | https://github.com/coc-cyqh/babyrop |
 | Rev      | ch1pfs             | Aris     |  |
 | Rev      | easy_dongle        | nen9mA0  | https://github.com/nen9mA0/d3ctf2019_easy_dongle |
 | Rev      | Ancient Game V2    | yype     | https://github.com/0h2o/D3CTF_Rev/tree/master/AncientGameV2 |
