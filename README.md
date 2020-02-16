@@ -6,7 +6,7 @@
 |----------|--------------------|----------|-----|
 | Web      | easyweb            | flight   | https://github.com/ox1234/d3ctf_easyweb |
 | Web      | fake onelinephp    | w1nd     | https://github.com/w1ndseek2/My-CTF-Challenges |
-| Web      | ezts               | evi0s    |  |
+| Web      | ezts               | evi0s    | https://github.com/evi0s/ezts |
 | Web      | Showhub            | Li4n0    | https://github.com/Li4n0/My-CTF-Challenges/tree/master/D%5E3CTF2019_Showhub |
 | Web      | d3guestbook        | fish     | https://github.com/f1shh/My-CTF-Challenge/tree/master/D3CTF2019 |
 | Web      | babyxss            | pupiles  | https://github.com/frankli0324/d3ctf2019-babyxss |
